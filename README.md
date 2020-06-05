@@ -1,1 +1,2 @@
-In this project, we are going to create a pyhton script to scrape eCommerce website and extract customers reviews
+In this project, we are going to create a pyhton script to scrape eCommerce website and extract customers reviews.
+We will be scracping the customer reviews of mobile phone from Flipkart, one of the biggest Retailers in india
